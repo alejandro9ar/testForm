@@ -35,11 +35,14 @@
         </div>
     </div>
 </nav>
-<body id="page-top" style="margin-top: 150px">
+<body id="page-top"">
 
 <!-- Contact Section-->
 <section class="page-section" id="contact">
+    <div class="card bg-success mb-4"><h3 class="text-white text-center">¡Formulario enviado correctamente!</h3></div>
+
     <div class="container">
+
         <!-- Contact Section Heading-->
         <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Formulario</h2>
         <!-- Icon Divider-->
